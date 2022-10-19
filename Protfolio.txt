@@ -1,0 +1,2 @@
+Snippet: là một đoạn code có sẵn và cần phải thực hiện khi mới bắt đầu code.
+Psuedo class: xác định trạng thái đặc biệt cho mỗi element.
